@@ -1,4 +1,4 @@
-# cmip6
+# CMIP6
 Download, combine, and remap CMIP6 data
 
 ## Download 
